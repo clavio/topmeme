@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "327959773801",
+    "firebase_url": "https://topmeme-75b27.firebaseio.com",
+    "project_id": "topmeme-75b27",
+    "storage_bucket": "topmeme-75b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327959773801:android:f4f26e8b855e7dbb",
+        "android_client_info": {
+          "package_name": "com.ciphra.jbarra.topmeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327959773801-qthc3k5ndbct9jci7t5jus7ujefo1k6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ciphra.jbarra.topmeme",
+            "certificate_hash": "93f8c6b0942bad20491da192bdc2f43cdb5de0ef"
+          }
+        },
+        {
+          "client_id": "327959773801-ajim0793bs4jfff470jop9la59rq2trv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7kPhcdFCJRei5poDEJGo5dTcPXtLNm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327959773801-ajim0793bs4jfff470jop9la59rq2trv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
